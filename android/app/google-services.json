@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "393235522421",
+    "project_id": "brain-hacker-de2c5",
+    "storage_bucket": "brain-hacker-de2c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393235522421:android:6a665460c5e47dd17ba93c",
+        "android_client_info": {
+          "package_name": "com.example.video_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393235522421-lf0bckeqs8uh12lvsslvarnmu1jl4pff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.video_app",
+            "certificate_hash": "2460839feb7fefc4714e0df3fbb7f804ccaf394f"
+          }
+        },
+        {
+          "client_id": "393235522421-bp7e9c0nv3j6o5inq0q5ffv4t96l6kbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg5zbqkQd6dwecDHo5pF03SOJnTq-YJQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393235522421-bp7e9c0nv3j6o5inq0q5ffv4t96l6kbh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "393235522421-mku4d98f9msfipl317av2crfg19das96.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.videoApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

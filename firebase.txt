@@ -1,0 +1,12 @@
+{
+  "file_generated_by": "FlutterFire CLI",
+  "purpose": "FirebaseAppID & ProjectID for this Firebase app in this directory",
+  "GOOGLE_APP_ID": "1:393235522421:ios:430b0d8ddd18dfb47ba93c",
+  "FIREBASE_PROJECT_ID": "brain-hacker-de2c5",
+  "GCM_SENDER_ID": "393235522421"
+}
+
+Platform  Firebase App Id
+web       1:393235522421:web:73f04a46dd5c3dfe7ba93c
+android   1:393235522421:android:6a665460c5e47dd17ba93c
+ios       1:393235522421:ios:430b0d8ddd18dfb47ba93c

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Brain Hacker</string>
+    <string name="facebook_app_id">655811965984786</string>
+    <string name="fb_login_protocol_scheme">fb655811965984786</string>
+    <string name="facebook_client_token">4bb8e9f2a9dfe2854f7b8f2093796256</string>
+</resources>
