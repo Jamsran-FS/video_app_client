@@ -104,7 +104,6 @@ void showSnackBar(String message, BuildContext context) {
         message,
         textAlign: TextAlign.center,
         style: const TextStyle(
-            fontFamily: 'Mulish',
             fontWeight: FontWeight.w500,
             fontSize: 13.0,
             color: Colors.lightGreen),
