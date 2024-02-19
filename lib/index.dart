@@ -19,7 +19,6 @@ export 'package:cached_network_image/cached_network_image.dart';
 export 'package:flutter_native_splash/flutter_native_splash.dart';
 export 'package:flutter_facebook_auth/flutter_facebook_auth.dart';
 export 'package:youtube_player_flutter/youtube_player_flutter.dart';
-
 export 'blocs/index.dart';
 export 'config/index.dart';
 export 'models/index.dart';
