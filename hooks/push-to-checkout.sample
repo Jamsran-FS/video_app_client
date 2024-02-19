@@ -15,7 +15,6 @@
 # of the branch. This hook is to be used to override the default
 # behaviour; however the code below reimplements the default behaviour
 # as a starting point for convenient modification.
-#
 # The hook receives the commit with which the tip of the current
 # branch is going to be updated:
 commit=$1
