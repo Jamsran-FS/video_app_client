@@ -41,7 +41,6 @@ class AppBlocObserver extends BlocObserver {
 
 class App extends StatelessWidget {
   final AuthRepository _authRepository;
-
   const App({
     super.key,
     required AuthRepository authRepository,
